@@ -1,0 +1,28 @@
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.deps.json
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.runtimeconfig.json
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.runtimeconfig.dev.json
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.dll
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.pdb
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.RazorAssemblyInfo.cache
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.RazorAssemblyInfo.cs
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.AssemblyInfo.cs
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.dll
+C:\Users\jonat\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.pdb
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.dll
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.deps.json
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.runtimeconfig.json
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.runtimeconfig.dev.json
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.csprojAssemblyReference.cache
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.RazorAssemblyInfo.cache
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.RazorAssemblyInfo.cs
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.AssemblyInfoInputs.cache
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.AssemblyInfo.cs
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.dll
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\obj\Debug\netcoreapp2.1\ClassMatchAPI.pdb
+C:\Users\Jonathan Hsieh\Desktop\Programming\C#\ClassMatchAPI\ClassMatchAPI\bin\Debug\netcoreapp2.1\ClassMatchAPI.pdb
